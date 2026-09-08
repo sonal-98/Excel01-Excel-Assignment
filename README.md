@@ -8,7 +8,7 @@ This project is designed to practice and demonstrate advanced Excel concepts and
 Practice advanced Excel functions
 Perform data manipulation and analysis
 Apply formulas to solve business-oriented problems
-Create summaries and analytical outputs
+Create summaries and analytical outputs 
 Improve proficiency in Excel-based data analysis
 
 ## Excel Skills Used
